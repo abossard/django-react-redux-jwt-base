@@ -21,7 +21,7 @@
     "autoprefixer": "6.3.3",
     "autoprefixer-loader": "3.2.0",
     "babel": "6.5.2",
-    "babel-core": "6.5.2",
+    "babel-core": "6.26.3",
     "babel-loader": "6.2.2",
     "babel-plugin-react-display-name": "2.0.0",
     "babel-plugin-react-transform": "2.0.0",
